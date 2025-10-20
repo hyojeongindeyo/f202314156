@@ -3,5 +3,6 @@ public calss Main {
         System.out.println("홍효정");
         World.run();
         World.run2();
+        Hello.run();
     }
 }
